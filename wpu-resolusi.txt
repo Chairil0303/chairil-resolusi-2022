@@ -3,3 +3,4 @@ chairil syahrain resolusi ditahun 2022
 --menguasai HTML 
 --menguasai CSS
 --Menguasai JavaScript
+--Menguasai Git-GitHub

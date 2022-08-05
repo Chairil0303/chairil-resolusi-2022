@@ -1,0 +1,5 @@
+rencana belajar tailwind
+
+-Apa itu tailwind
+-Kenapa menggunakan tailwind
+-instalasi tailwind

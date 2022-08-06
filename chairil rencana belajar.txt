@@ -4,3 +4,6 @@ rencana belajar tailwind
 -Kenapa menggunakan tailwind
 -instalasi tailwind
 -dasar tailwind
+  -basic utility
+  -pseudo-element
+  -dark mode

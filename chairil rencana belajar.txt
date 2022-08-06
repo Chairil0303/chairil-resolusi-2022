@@ -7,3 +7,4 @@ rencana belajar tailwind
   -basic utility
   -pseudo-class
   -dark mode
+ -jauhilah orang orang yang membuang waktu !!!

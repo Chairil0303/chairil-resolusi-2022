@@ -5,5 +5,5 @@ rencana belajar tailwind
 -instalasi tailwind
 -dasar tailwind
   -basic utility
-  -pseudo-element
+  -pseudo-class
   -dark mode
